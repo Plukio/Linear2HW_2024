@@ -1,0 +1,1 @@
+{"task1": {"C1": {"__ndarray__": [1.0, -0.0, 0.0, -2.0], "dtype": "float64", "shape": [4]}, "det": -1}, "task2": {"C1": {"__ndarray__": [1.0, -1.0, 0.0, -1.0], "dtype": "float64", "shape": [4]}, "det": -1}}
